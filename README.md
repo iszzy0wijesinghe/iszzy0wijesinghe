@@ -1,2 +1,2 @@
 # iszzy
-![Metrics](https://github.com/iszzy0wijesinghe/iszzy/blob/main/github-metrics.svg)
+https://github.com/iszzy0wijesinghe/iszzy0wijesinghe/blob/main/github-metrics.svg
