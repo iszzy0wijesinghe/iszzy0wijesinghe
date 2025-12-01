@@ -1,9 +1,36 @@
+<!-- Clean animated header (no big square banner) -->
+<h1 align="center">
+  <span style="font-family:'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight:700;">
+    Hi, I'm <span style="color:#ff6bcb;">Isindu</span> Yuwaneka Wijesinghe 👋
+  </span>
+</h1>
+
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6bcb,50:00f5a0,100:00d9f5&text=Hi%2C%20I'm%20Isindu%20Yuwaneka%20Wijesinghe%20👋&fontAlign=50&fontAlignY=70&fontSize=32&fontColor=FFFFFF&animation=twinkling&font=Poppins"
-    alt="Hi, I'm Isindu Yuwaneka Wijesinghe 👋"
-  />
+  <!-- animated underline -->
+  <svg width="260" height="6" viewBox="0 0 260 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="underlineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff6bcb" />
+        <stop offset="50%" stop-color="#00f5a0" />
+        <stop offset="100%" stop-color="#00d9f5" />
+      </linearGradient>
+    </defs>
+    <path
+      d="M2 3 L258 3"
+      stroke="url(#underlineGradient)"
+      stroke-width="4"
+      stroke-linecap="round"
+      stroke-dasharray="40 12"
+      stroke-dashoffset="0">
+      <animate
+        attributeName="stroke-dashoffset"
+        values="0;120;0"
+        dur="4s"
+        repeatCount="indefinite" />
+    </path>
+  </svg>
 </p>
+
 
 <p align="center">
   <img
