@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Isindu Yuwaneka Wijesinghe 👋</h1>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff6bcb,50:00f5a0,100:00d9f5&text=Hi%2C%20I'm%20Isindu%20Yuwaneka%20Wijesinghe%20👋&fontAlign=50&fontAlignY=70&fontSize=32&fontColor=FFFFFF&animation=twinkling&font=Poppins"
+    alt="Hi, I'm Isindu Yuwaneka Wijesinghe 👋"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2200&pause=900&color=ffd739&center=true&vCenter=true&width=800&lines=Full+Stack+.NET+%26+React+Developer;UI%2FUX-focused+Engineer;Building+Retail+%26+Analytics+Systems;Open+to+Internships+%26+Junior+Roles"
