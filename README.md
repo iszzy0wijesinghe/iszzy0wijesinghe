@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Isindu Yuwaneka Wijesinghe 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Relentless+Problem+Solver;Always+Learning+Something+New" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+.NET+%26+React+Developer;UI%2FUX-focused+Engineer;Building+Retail+%26+Analytics+Systems;Open+to+Internships+%26+Junior+Roles"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <p align="center">
   <b>Passionate ▪️ Determined ▪️ Relentless</b><br>
