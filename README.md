@@ -1,35 +1,10 @@
-<!-- Clean animated header (no big square banner) -->
-<h1 align="center">
-  <span style="font-family:'Poppins', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight:700;">
-    Hi, I'm <span style="color:#ff6bcb;">Isindu</span> Yuwaneka Wijesinghe 👋
-  </span>
-</h1>
-
 <p align="center">
-  <!-- animated underline -->
-  <svg width="260" height="6" viewBox="0 0 260 6" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="underlineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#ff6bcb" />
-        <stop offset="50%" stop-color="#00f5a0" />
-        <stop offset="100%" stop-color="#00d9f5" />
-      </linearGradient>
-    </defs>
-    <path
-      d="M2 3 L258 3"
-      stroke="url(#underlineGradient)"
-      stroke-width="4"
-      stroke-linecap="round"
-      stroke-dasharray="40 12"
-      stroke-dashoffset="0">
-      <animate
-        attributeName="stroke-dashoffset"
-        values="0;120;0"
-        dur="4s"
-        repeatCount="indefinite" />
-    </path>
-  </svg>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I'm+Isindu+Yuwaneka+Wijesinghe+%F0%9F%91%8B"
+    alt="Hi, I'm Isindu Yuwaneka Wijesinghe"
+  />
 </p>
+
 
 
 <p align="center">
