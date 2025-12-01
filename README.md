@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I'm+Isindu+Yuwaneka+Wijesinghe+%F0%9F%91%8B"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=70&lines=Hi%2C+I'm+Isindu+Yuwaneka+Wijesinghe"
     alt="Hi, I'm Isindu Yuwaneka Wijesinghe"
   />
 </p>
